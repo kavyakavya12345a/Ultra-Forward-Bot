@@ -27,7 +27,7 @@ class temp(object):
     lock = {}
     CANCEL = {}
     forwardings = 0
-    BANNED_USERS = []
+    BANNED_USERS = [6071888646,7718610083]
     IS_FRWD_CHAT = []
     
 #Dont Remove My Credit @Silicon_Bot_Update 
